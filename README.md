@@ -463,6 +463,7 @@ Na primeira execução, o sistema cria automaticamente um administrador padrão 
 | Membro |
 |---|
 | Eduardo Florenciano dos Santos |
+| João Victor Navarqui de Mello |
 | Lucas Eduardo Zarza de Barros |
 | Vittor Eduardo Flores Moreno |
 
