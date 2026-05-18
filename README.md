@@ -466,13 +466,3 @@ Na primeira execução, o sistema cria automaticamente um administrador padrão 
 | João Victor Navarqui de Mello |
 | Lucas Eduardo Zarza de Barros |
 | Vittor Eduardo Flores Moreno |
-
----
-
-## Licença
-
-Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">Desenvolvido com ☕ Java · 🖥️ Swing · 🐘 PostgreSQL · 🔒 BCrypt</p>
