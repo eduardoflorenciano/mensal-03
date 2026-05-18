@@ -27,7 +27,6 @@
 - [Como Executar](#-como-executar)
 - [Credenciais Padrão](#-credenciais-padrão)
 - [Equipe](#-equipe)
-- [Licença](#-licença)
 
 ---
 
